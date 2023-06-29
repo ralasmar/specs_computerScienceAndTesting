@@ -1,7 +1,8 @@
+package main.java;
 import java.util.HashMap;
 import java.util.Stack;
 
-public class balancedBrackets {
+public class BalancedBrackets {
     public static boolean balancedBrackets(String s){
         Stack<Character> stack = new Stack<Character>();
         HashMap<Character, Character> bracketPairs = new HashMap<Character, Character>();

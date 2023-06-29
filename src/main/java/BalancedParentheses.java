@@ -1,4 +1,6 @@
-public class balancedParentheses {
+package main.java;
+
+public class BalancedParentheses {
     public static boolean balancedParentheses(String s){
         int numUnclosed = 0;
         for (int i=0;i<s.length(); i+=1){

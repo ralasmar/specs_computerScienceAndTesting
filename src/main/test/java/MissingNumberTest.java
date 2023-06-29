@@ -1,4 +1,4 @@
-package test.java;
+package main.test.java;
 
 import main.java.MissingNumber;
 import org.junit.Test;

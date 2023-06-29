@@ -9,8 +9,5 @@
         <module name="java-week-5" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="java-week-5" target="20" />
-    </bytecodeTargetLevel>
   </component>
 </project>
